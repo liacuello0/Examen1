@@ -1,0 +1,38 @@
+form{
+    background: rgb(81, 206, 206);
+}
+
+table{
+    background: azure;
+}
+
+button{
+    background: deepskyblue;
+}
+
+#title{
+    position: relative;
+    top: 10px;
+    font-size: 3em;
+}
+label,input{
+    text-align: center;
+}
+.form{
+    background-color: rgb(81, 206, 206);
+    position: rebalative;
+    margin: 0 auto;
+    width: 500px;
+    height: 400px;
+    padding: 10px;
+    top: 10px;
+}
+
+button{
+    position: relative;
+    margin: 10px 3px; 
+    border: none;
+    border-radius: 3px;
+    padding: 3px; 
+}
+
